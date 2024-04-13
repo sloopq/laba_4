@@ -13,12 +13,9 @@
 
         <label for="category">Category</label>
         <select name="category">
-       
-
-
-
-            <!-- <option value="cars">cars</option>
-            <option value="other">other</option> -->
+            <option value="cars">cars</option>
+            <option value="other">music</option>
+            <option value="other">games</option>
         </select>
 
         <label for="title">Title</label>
